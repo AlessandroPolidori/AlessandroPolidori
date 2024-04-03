@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlessandroPolidori
 - 👀 I’m mainly interested in computer vision, machine learning, robotics 
-- 🌱 I’m currently working in Orobix s.r.l.
+- 🌱 I’m currently working @ Develer Srl
 - 📫 How to reach me alepolid@gmail.com
 
 <!---
